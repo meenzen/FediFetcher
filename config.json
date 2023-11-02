@@ -1,0 +1,10 @@
+{
+  "server": "social.meenzen.net",
+  "home-timeline-length": 200,
+  "max-bookmarks": 80,
+  "max-favourites": 40,
+  "max-followings": 80,
+  "max-followers": 80,
+  "reply-interval-in-hours": 1,
+  "from-notifications": 1
+}
